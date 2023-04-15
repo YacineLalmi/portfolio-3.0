@@ -16,7 +16,7 @@ function NavBar() {
             <Image width={25} height={25} src="icons/info.svg" alt="About" title="About" />
           </Link>
           <Link href="/resume">
-            <Image width={25} height={25} src="icons/file-text.svg" alt="Resume" title="Resume" />
+            <Image width={25} height={25} src="icons/resume.svg" alt="Resume" title="Resume" />
           </Link>
           <Link href="/works">
             {" "}

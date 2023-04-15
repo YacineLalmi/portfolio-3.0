@@ -3,6 +3,8 @@
 }
 .page {
   display: flex;
+  margin-top: 3px;
+  height: calc(100vh - 47px);
 }
 
 .content {
