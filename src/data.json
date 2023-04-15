@@ -1,0 +1,88 @@
+{
+  "experiences": [
+    {
+      "date": "May 17, 2022 - Now",
+      "title": "Developper State Engineer",
+      "location": "Meteorology National Office Dar El-Beida, Algeria",
+      "tasks": [
+        "Designing web appliaction",
+        "Debugging and maintan exsisting web applications",
+        "Developping a Full-Stack web applications using Django on the Back-End and React.js on the Front-End",
+        "Assuring web application security"
+      ]
+    },
+    {
+      "date": "Mars 01, 2020 - August 31, 2020",
+      "title": "Intern Web developper",
+      "location": "NAFTAL GPL Branche 5 Maison, Algeria",
+      "tasks": [
+        "Desiging a web application for user requests management",
+        "Developping a web application for user requests management based on MVC Model using Vue.js on the Front-End side and Node.js on the Back-End side",
+        "The web appliation must assure: Reporting, security and Profile flow roles"
+      ]
+    }
+  ],
+
+  "educations": [
+    {
+      "date": "2020",
+      "title": "Licsence in Software and information system engineering",
+      "location": "University M'Hamed Bougara Boumerdes",
+      "tasks": []
+    },
+    {
+      "date": "2018",
+      "title": "Master 2 in Information Technology",
+      "location": "University M'Hamed Bougara Boumerdes",
+      "tasks": []
+    }
+  ],
+
+  "formations": [
+    {
+      "date": "2019",
+      "title": "CCNA Routing and switching, Introduction to network",
+      "location": "Informica, Boumerdes",
+      "tasks": []
+    },
+    {
+      "date": "2019",
+      "title": "Computer and network maintenance",
+      "location": "Ecole technique, Tizi-ouzou",
+      "tasks": []
+    }
+  ],
+
+  "social_medias": [
+    {
+      "id": 1,
+      "link": "https://www.instagram.com/lalmi_yacine/",
+      "label": "Instagram",
+      "icon": "instagram.svg"
+    },
+    {
+      "id": 2,
+      "link": "https://www.facebook.com/YacineLalmii",
+      "label": "Facebook",
+      "icon": "facebook.svg"
+    },
+    {
+      "id": 3,
+      "link": "https://www.linkedin.com/in/yacinelalmi/",
+      "label": "LinkedIn",
+      "icon": "linkedin.svg"
+    },
+    {
+      "id": 4,
+      "link": "https://github.com/YacineLalmi",
+      "label": "GitHub",
+      "icon": "github.svg"
+    },
+    {
+      "id": 5,
+      "link": "https://leetcode.com/YacineLalmi/",
+      "label": "LeetCode",
+      "icon": "leetcode.svg"
+    }
+  ]
+}

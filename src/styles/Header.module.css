@@ -1,0 +1,17 @@
+.header {
+  border: 1px solid black;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+  gap: 5px;
+}
+.logo_nd_part {
+  color: var(--myBlue);
+}
